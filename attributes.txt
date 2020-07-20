@@ -1,0 +1,92 @@
+Group
+    Group/GroupBHMass
+    Group/GroupBHMdot
+    Group/GroupCM
+    Group/GroupFirstSub
+    Group/GroupGasMetalFractions
+    Group/GroupGasMetallicity
+    Group/GroupLen
+    Group/GroupLenType
+    Group/GroupMass
+    Group/GroupMassType
+    Group/GroupNsubs
+    Group/GroupPos
+    Group/GroupRadioLuminosity
+    Group/GroupSFR
+    Group/GroupStarMetalFractions
+    Group/GroupStarMetallicity
+    Group/GroupVel
+    Group/GroupWindMass
+    Group/GroupXrayLuminosity
+    Group/Group_M_Crit200
+    Group/Group_M_Crit500
+    Group/Group_M_Mean200
+    Group/Group_M_TopHat200
+    Group/Group_R_Crit200
+    Group/Group_R_Crit500
+    Group/Group_R_Mean200
+    Group/Group_R_TopHat200
+Header
+    BoxSize: 67.77
+    FlagDoubleprecision: 0
+    HubbleParam: 0.6777
+    Ngroups_ThisFile: 11
+    Ngroups_Total: 15876
+    Nids_ThisFile: 2203483
+    Nids_Total: 17940716
+    Nsubgroups_ThisFile: 162
+    Nsubgroups_Total: 9465
+    NumFiles: 8
+    Omega0: 0.307
+    OmegaLambda: 0.693
+    Redshift: 2.220446049250313e-16
+    Time: 0.9999999999999998
+Subhalo
+    Subhalo/SubhaloBHMass
+    Subhalo/SubhaloBHMdot
+    Subhalo/SubhaloCM
+    Subhalo/SubhaloGasMetalFractions
+    Subhalo/SubhaloGasMetalFractionsHalfRad
+    Subhalo/SubhaloGasMetalFractionsMaxRad
+    Subhalo/SubhaloGasMetalFractionsSfr
+    Subhalo/SubhaloGasMetalFractionsSfrWeighted
+    Subhalo/SubhaloGasMetallicity
+    Subhalo/SubhaloGasMetallicityHalfRad
+    Subhalo/SubhaloGasMetallicityMaxRad
+    Subhalo/SubhaloGasMetallicitySfr
+    Subhalo/SubhaloGasMetallicitySfrWeighted
+    Subhalo/SubhaloGrNr
+    Subhalo/SubhaloHalfmassRad
+    Subhalo/SubhaloHalfmassRadType
+    Subhalo/SubhaloIDMostbound
+    Subhalo/SubhaloLen
+    Subhalo/SubhaloLenType
+    Subhalo/SubhaloMass
+    Subhalo/SubhaloMassInHalfRad
+    Subhalo/SubhaloMassInHalfRadType
+    Subhalo/SubhaloMassInMaxRad
+    Subhalo/SubhaloMassInMaxRadType
+    Subhalo/SubhaloMassInRad
+    Subhalo/SubhaloMassInRadType
+    Subhalo/SubhaloMassType
+    Subhalo/SubhaloParent
+    Subhalo/SubhaloPos
+    Subhalo/SubhaloSFR
+    Subhalo/SubhaloSFRinHalfRad
+    Subhalo/SubhaloSFRinMaxRad
+    Subhalo/SubhaloSFRinRad
+    Subhalo/SubhaloSpin
+    Subhalo/SubhaloStarMetalFractions
+    Subhalo/SubhaloStarMetalFractionsHalfRad
+    Subhalo/SubhaloStarMetalFractionsMaxRad
+    Subhalo/SubhaloStarMetallicity
+    Subhalo/SubhaloStarMetallicityHalfRad
+    Subhalo/SubhaloStarMetallicityMaxRad
+    Subhalo/SubhaloStellarPhotometrics
+    Subhalo/SubhaloStellarPhotometricsMassInRad
+    Subhalo/SubhaloStellarPhotometricsRad
+    Subhalo/SubhaloVel
+    Subhalo/SubhaloVelDisp
+    Subhalo/SubhaloVmax
+    Subhalo/SubhaloVmaxRad
+    Subhalo/SubhaloWindMass
